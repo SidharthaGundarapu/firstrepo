@@ -3,3 +3,4 @@
 03 line C(diff on line 3.0)
 04 line D
 05 line E
+05 line E(diff on line 5)
